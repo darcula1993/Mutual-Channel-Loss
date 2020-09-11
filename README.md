@@ -7,6 +7,7 @@ The official pytorch code is here:https://github.com/PRIS-CV/Mutual-Channel-Loss
 ### Requirements:
 
 tensorflow 2.0+
+
 numpy
 
 ## Sample Usage:
