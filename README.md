@@ -4,12 +4,12 @@ This is an unofficial implementation of Mutual-Channel-Loss:The Devil is in the 
 
 The official pytorch code is here:https://github.com/PRIS-CV/Mutual-Channel-Loss
 
-###Requirements:
+### Requirements:
 
 tensorflow 2.0+
 numpy
 
-##Sample Usage:
+## Sample Usage:
 ```
 model = create_model() #model should have two outputs:[predictions,featuremap]
 
